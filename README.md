@@ -1,3 +1,3 @@
 # ToDo
 
-上のメニューより Issue を選択してください。
+ボードは [こちら](https://github.com/Smile-Empire/ToDo/projects/1)
